@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(246, 245, 245);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+p {
+
+    font-size: 20px;
+}
+
+#capa {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    background: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-image: url('https://static.vecteezy.com/ti/vetor-gratis/p1/4526894-equitativo-relacionamentos-gradiente-icone-para-tema-escuro-parceria-entre-mulheres-e-homens-alcancar-igualdade-genero-linha-fina-cor-simbolo-moderno-estilo-pictograma-isolado-esboco-desenho-vetor.jpg');
+    color: aliceblue;
+    margin-bottom: 100px;
+
+}
+
+.texto{
+    width: 50%;
+}
+
+#projeto {}
+
+.flex{
+    display: flex;
+}
+#video {
+    width: 50%;
+    margin-right: 30px;
+
+}
+
+#section3 {
+    clear: left
+}
+
+.h1 {
+    clear: left;
+}
+
+button {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: solid 2px #2EE8FD;
+    height: 40px;
+    border-radius: 6px;
+}
+
+#section3 {
+    height: 70vh;
+    align-items: center;
+
+}
+
+.titulo {
+    font-size: 30px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#imagens {
+    display: flex;
+    justify-content: space-around;
+}
+
+#imagem {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
